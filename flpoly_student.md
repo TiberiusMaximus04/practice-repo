@@ -1,27 +1,27 @@
-## First Name Last Name
+## Ryan Chacon
 
-### Term Year 
+### 2022
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Intro to computation and programming
 
-- Course 2
+- Intro to Data Science
 
-- Course 3
+- Python for Data Analytics
 
-- Course 4
+- Analytic Geometry and Calculus 1
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Bowling
 
-- Thing 2
+- Video Games
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Programming
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2022/08/31
